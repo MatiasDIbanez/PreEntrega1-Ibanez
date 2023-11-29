@@ -1,0 +1,9 @@
+.Count{
+    display: grid;
+    width: auto;
+
+}
+.CountButtons{
+    display: flex;
+    width: 100%;
+}

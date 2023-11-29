@@ -9,7 +9,6 @@ export default function Cart() {
     <div style={contenedorStyle}>
       <p>0</p>
       <LuShoppingCart color="black" size={30}/>
-      
     </div>
   )
 }

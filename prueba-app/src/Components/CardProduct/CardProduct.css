@@ -1,0 +1,20 @@
+.CardContainer{
+    border-radius: 20px;
+    background-color: rgb(218, 206, 229);
+    width: 200px;
+    height: 250px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.InnerCardContainer{
+    border-radius: 14px;
+    background-color: rgba(223, 248, 234, 0.669);
+    width: 180px;
+    height: 230px;
+}
+.Count{
+   width: 50%;
+   margin-inline: auto;
+   justify-content: center;
+}
